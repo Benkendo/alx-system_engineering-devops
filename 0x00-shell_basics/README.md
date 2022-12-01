@@ -1,1 +1,1 @@
-pwd directory
+lsisting files 
